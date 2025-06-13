@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/MainMap.umap",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/White.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/Black.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/Blueprints/BP_Dice.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/Golden_dice.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/WBP_HUD.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/Blueprints/BP_GameMode.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/Blueprints/WBP_HUD.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/DiceExample/Blueprints/BPI_GameMode.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/BP_Dice1Actor.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/Golden_dice.uasset",
+				"C:/Users/Florian/Documents/Unreal Projects/UE5_DiceExample/Content/Black.uasset"
+			]
+		}
+	]
+}
