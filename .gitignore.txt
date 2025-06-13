@@ -49,3 +49,4 @@ Session.vim
 
 # Visual Studio
 .vs
+Saved/Logs/*

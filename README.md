@@ -1,6 +1,6 @@
 # Unreal Engine 5 - Dice Example
 
-<img src="https://github.com/fcazalet/UE5_DiceExample/blob/main/DiceTest2.gif?raw=true" width="200" height="200">
+<img src="https://github.com/fcazalet/UE5_DiceExample/blob/main/DiceTest2.gif?raw=true" width="400" height="300">
 
 This is a project example of a dice roll and result evaluation.
 
