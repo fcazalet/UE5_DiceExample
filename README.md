@@ -6,7 +6,7 @@ This is a project example of a dice roll and result evaluation.
 
 ## How to run it
 
-Map to run is : Content\DiceExample\MainMap.umap
+Map to run is : ``Content\DiceExample\MainMap.umap``
 
 
 
